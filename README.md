@@ -9,6 +9,9 @@
 | :rocket: URL          | https://github.com/wesleyfuchs/Corretor-ortografico
 | :fire: Desafio        | https://cursos.alura.com.br/course/nlp-corretor-ortografico
 
+<!-- Capa da Vitrine.dev-->
+![1-1024x576](https://user-images.githubusercontent.com/55562529/227060027-83e4092f-e943-452c-8aed-b88be98d5635.jpg)
+
 
 ## Sobre o projeto 📚
 
